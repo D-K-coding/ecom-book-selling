@@ -22,6 +22,8 @@ Related entities and set of users
 | book               | book_id, price, discount, name, genre, author, stock,seller_id                                       |
 | order              | order_id, payment_status, payment_id, order_date, book_id, seller_id, return_status, review, ratings |
 
+**Relational Schema Link:-** [Remote Link](https://dbdiagram.io/d/63c84ef2296d97641d7a9363)
+
 ### 👤 Roles
 
 | Role name | Description                                                                                                   |
